@@ -3,6 +3,7 @@ import {db} from "../db";
 import { animePageTypes, TypedRequestBody } from "../types/types";
 
 
+// getAnimeById
 const getOneAnime = async(req: Request, res: Response)=> {
     try {
         const id = String(req.params.id)
