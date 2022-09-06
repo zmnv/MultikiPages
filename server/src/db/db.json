@@ -1,0 +1,29 @@
+{
+  "anime": [
+    {
+      "id": "gto",
+      "name": "Great Teacher Onizuka",
+      "image": "http://www.world-art.ru/animation/img/1000/311/1.jpg"
+    },
+    {
+      "id": "cg",
+      "name": "Code Geass: Lelouch of the Rebellion R2",
+      "image": "http://www.world-art.ru/animation/img/7000/6804/1.jpg"
+    },
+    {
+      "id": "fab",
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "image": "http://www.world-art.ru/animation/img/8000/7116/1.jpg"
+    },
+    {
+      "id": "sg",
+      "name": "Steins;Gate",
+      "image": "http://www.world-art.ru/animation/img/9000/8026/1.jpg"
+    },
+    {
+      "id": "beck",
+      "name": "Beck: Mongolian Chop Squad",
+      "image": "http://www.world-art.ru/animation/img/3000/2671/1.jpg"
+    }
+  ]
+}
